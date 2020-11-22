@@ -1,6 +1,5 @@
 # StickyMC Resource Pack
-![Latest Tag](https://img.shields.io/github/v/tag/FeignedIgnorance/StickyMC-Resource-Pack?label=Latest%20Version)
-
+![Latest Release](https://img.shields.io/github/v/release/FeignedIgnorance/StickyMC-Resource-Pack) ![Downloads](https://img.shields.io/github/downloads/FeignedIgnorance/StickyMC-Resource-Pack/total)
 ![Preview Image](/preview.png)
 
 
