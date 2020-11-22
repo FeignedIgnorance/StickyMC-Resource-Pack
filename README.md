@@ -1,8 +1,10 @@
 # StickyMC Resource Pack
-![Latest Tag](https://img.shields.io/github/v/tag/FeignedIgnorance/StickyMC-Resource-Pack?label=Latest%20Version)
+[![Latest Release](https://img.shields.io/github/v/release/FeignedIgnorance/StickyMC-Resource-Pack) ![Downloads](https://img.shields.io/github/downloads/FeignedIgnorance/StickyMC-Resource-Pack/total)](https://github.com/FeignedIgnorance/StickyMC-Resource-Pack/releases/latest)
+![Preview Image](/preview.png)
+
 
 ### Installation instructions:
-Go to the releases page on the right, and download the zip of the pack.
+Go to the [releases page](https://github.com/FeignedIgnorance/StickyMC-Resource-Pack/releases) and download the zip of the pack.
 Place this zip into your Minecraft resource packs folder.
 
 ### This pack requires Optifine!
