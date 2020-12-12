@@ -1,4 +1,4 @@
-# StickyMC Resource Pack
+# StickyPack Extended
 [![Latest Release](https://img.shields.io/github/v/release/FeignedIgnorance/StickyMC-Resource-Pack) ![Downloads](https://img.shields.io/github/downloads/FeignedIgnorance/StickyMC-Resource-Pack/total)](https://github.com/FeignedIgnorance/StickyMC-Resource-Pack/releases/latest)
 
 
